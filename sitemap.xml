@@ -292,21 +292,33 @@
     <loc>https://ultraidealism.org/about_worldview_ru.html</loc>
   </url>
   <url>
-    <loc>https://ultraidealism.org/dwn/Emt_&amp;_Dot_11.07.2025.pdf</loc>
+    <loc>https://ultraidealism.org/dwn/Emt_&_Dot_11.07.2025.pdf</loc><!-- book "Nothing & Dot" Russian Original text -->
   </url>
   <url>
-    <loc>https://ultraidealism.org/dwn/Emt_&amp;_Dot_EN.pdf</loc>
+    <loc>https://ultraidealism.org/dwn/Emt_&_Dot_EN.pdf</loc><!-- book "Nothing & Dot" English text -->
   </url>
   <url>
-    <loc>https://ultraidealism.org/dwn/Nothing_&amp;_Dot_EN_by_AI_ORION.pdf</loc>
+    <loc>https://ultraidealism.org/dwn/Nothing_&_Dot_EN_by_AI_ORION.pdf</loc><!-- book "Nothing & Dot" interpreted by AI - English text -->
   </url>
   <url>
-    <loc>https://ultraidealism.org/dwn/Ultra-Idealism_The_Ontological_Foundation_of_Reality_in_Consciousness.pdf</loc>
+    <loc>https://ultraidealism.org/dwn/Ultra-Idealism_The_Ontological_Foundation_of_Reality_in_Consciousness.pdf</loc><!-- AI about Ultra-Idealism - English text -->
   </url>
   <url>
-    <loc>https://ultraidealism.org/dwn/4Dty_EN.pdf</loc>
+    <loc>https://ultraidealism.org/dwn/4Dty_EN.pdf</loc><!-- book "Fourth Dimension and Four-Dimensionality" English text -->
   </url>
   <url>
-    <loc>https://ultraidealism.org/dwn/4Dty_RU.pdf</loc>
+    <loc>https://ultraidealism.org/dwn/4Dty_RU.pdf</loc><!-- book "Fourth Dimension and Four-Dimensionality" Russian Original text -->
+  </url>
+  <url>
+    <loc>https://ultraidealism.org/img/fourh_dimension.png</loc><!-- "Fourth Dimension Scheme" Visualisation of the 4D Axis -->
+  </url>
+  <url>
+    <loc>https://ultraidealism.org/img/comparing_fourth_dimension_and_four-dimensionality.png</loc><!-- Comparing Fourth Dimension (left) and Four-Dimensionality (right) Visualisation Scheme -->
+  </url>
+  <url>
+    <loc>https://ultraidealism.org/img/globe_ws_4thV_EN.png</loc><!-- "Fourth Dimension Axis in the 3D Space" Visualisation of the 4D Axis in the 3d Env -->
+  </url>
+  <url>
+    <loc>https://ultraidealism.org/img/5D_02.png</loc><!-- "Fifth Dimension Scheme" Visualisation of the 5D Axis -->
   </url>
 </urlset>
